@@ -1,0 +1,16 @@
+
+r	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ќЫЩҐю€€€€8°д±ха1
+G	java:S106"+Replace this use of System.out by a logger.(иќ∆Ь8Ћд±ха1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(гђШєэ€€€€8ћд±ха1
+L	java:S106"+Replace this use of System.out by a logger.(гђШєэ€€€€8Ќд±ха1
+G	java:S106#"+Replace this use of System.out by a logger.(иІ…э8ќд±ха1
+L	java:S106'"+Replace this use of System.out by a logger.(жї Ёы€€€€8ќд±ха1
+]
+java:S1612("@Replace this lambda with method reference 'System.out::println'.(∞їЃм8ѕд±ха1
+G	java:S106("+Replace this use of System.out by a logger.(∞їЃм8ѕд±ха1
+L	java:S106+"+Replace this use of System.out by a logger.(яЅј•ш€€€€8–д±ха1
+G	java:S106;"+Replace this use of System.out by a logger.(ЋЎяв8—д±ха1
+]
+java:S1612<"@Replace this lambda with method reference 'System.out::println'.(авї»8—д±ха1
+G	java:S106<"+Replace this use of System.out by a logger.(авї»8“д±ха1

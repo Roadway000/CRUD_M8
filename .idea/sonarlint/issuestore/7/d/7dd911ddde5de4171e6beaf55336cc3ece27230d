@@ -1,0 +1,17 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öæ›ıÿÿÿÿ8ĞÒòƒà1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öæ›ıÿÿÿÿ8ÑÒòƒà1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öæ›ıÿÿÿÿ8ÑÒòƒà1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰œÂĞúÿÿÿÿ8ÑÒòƒà1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‚ò8ÑÒòƒà1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë Ò˜8ÒÒòƒà1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Øí™®8ÓÒòƒà1
+u	java:S116"TRename this field "client_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊñüÿÿÿÿ8ÚÒòƒà1
+q	java:S116"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿ¥Ì8ÚÒòƒà1
+w	java:S116	"VRename this field "finish_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î±ôîøÿÿÿÿ8ÚÒòƒà1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¯Â•ÿÿÿÿÿ8ãÒòƒà1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰œÂĞúÿÿÿÿ8ãÒòƒà1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÇ§¯8äÒòƒà1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‚ò8åÒòƒà1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‰çèşÿÿÿÿ8æÒòƒà1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë Ò˜8çÒòƒà1
